@@ -3,7 +3,7 @@
     <title>rocks</title>
     <link href="https://jlschmidt-geos.github.io/feed.xml" rel="self" />
     <link href="https://jlschmidt-geos.github.io" />
-    <updated>2020-01-06T09:26:48-07:00</updated>
+    <updated>2020-01-06T09:27:30-07:00</updated>
     <author>
         <name>Jen Schmidt</name>
     </author>
@@ -30,6 +30,27 @@
 <p>So here I am. Starting a blog. Asking myself why and who would want to read anything I write. Maybe no one does and thats ok. I'm honestly a little embarrased putting my thoughts out there for the world to read and would be fine if no one ever read them. </p>
 <p>I guess I'm doing this for a couple reasons. One is for the practice. I am trained in academic writing. I have no experience in any form of creative writing. Seems like a good skill to work on. More importantly though I suppose is that I am in a period of uncertainty in my career path (more on this in a future post). I'm trying to explore my options going forward. I want to use this space to work through my situation, which may or may not be that unique, in the hope that I will come out with a better idea of what I want to do with my life. With any luck, someone in a similar situation will stumble upon this and find it useful. </p>
 <p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>About</title>
+        <author>
+            <name>Jen Schmidt</name>
+        </author>
+        <link href="https://jlschmidt-geos.github.io/about-me.html"/>
+        <id>https://jlschmidt-geos.github.io/about-me.html</id>
+
+        <updated>2020-01-06T09:27:27-07:00</updated>
+            <summary>
+                <![CDATA[
+                    My name is Jen Schmidt. After a hard-fought seven years, I earned my PhD in Earth Science in 2018. I had my first little one in graduate school. I got pregnant with my second after defending my dissertation and spent the last few months of&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>My name is Jen Schmidt. After a hard-fought seven years, I earned my PhD in Earth Science in 2018.  I had my first little one in graduate school. I got pregnant with my second after defending my dissertation and spent the last few months of my PhD teaching full time, working through revisions, and trying not to vomit. I am currently a stay-at-home-mom. Sort of. Not really.</p>
+<p>I'm not really sure what I am. </p>
             ]]>
         </content>
     </entry>
