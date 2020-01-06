@@ -22,20 +22,6 @@
             ],
             "date_published": "2019-12-31T22:25:05-07:00",
             "date_modified": "2020-01-06T09:24:09-07:00"
-        },
-        {
-            "id": "https://jlschmidt-geos.github.io/about-me.html",
-            "url": "https://jlschmidt-geos.github.io/about-me.html",
-            "title": "About",
-            "summary": "My name is Jen Schmidt. After a hard-fought seven years, I earned my PhD in Earth Science in 2018. I had my first little one in graduate school. I got pregnant with my second after defending my dissertation and spent the last few months of&hellip;",
-            "content_html": "<p>My name is Jen Schmidt. After a hard-fought seven years, I earned my PhD in Earth Science in 2018.  I had my first little one in graduate school. I got pregnant with my second after defending my dissertation and spent the last few months of my PhD teaching full time, working through revisions, and trying not to vomit. I am currently a stay-at-home-mom. Sort of. Not really.</p>\n<p>I'm not really sure what I am. </p>",
-            "author": {
-                "name": "Jen Schmidt"
-            },
-            "tags": [
-            ],
-            "date_published": "2019-12-31T21:55:08-07:00",
-            "date_modified": "2020-01-06T09:27:27-07:00"
         }
     ]
 }
